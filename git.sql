@@ -1,1 +1,1 @@
-select 1
+// cretae a github_screte token 
